@@ -10,8 +10,14 @@ public class Apis_Testing {
 		
 		System.out.println("For git & git trial");
 	
-		System.out.println("hello omkar i have completed task");
-		System.out.println("Please check this and approve me for marge");
+		
+		
+		NEwclass.m1();
 	}
+	
+	
+	
+	
+	
 
 }
